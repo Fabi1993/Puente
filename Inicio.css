@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("np://user.desktop.nicepage.com/Site_94506799/images/2481991.jpg?rand=b9ef");
+  background-image: url("images/2481991.jpg");
   background-position: 50% 50%;
 }
 
@@ -235,7 +235,7 @@
     width: 340px;
   }
 } .u-section-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("np://user.desktop.nicepage.com/Site_94506799/images/2481991.jpg?rand=1a49");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/2481991.jpg");
   background-position: 50% 50%;
 }
 
@@ -288,7 +288,7 @@
     margin-left: 99px;
   }
 } .u-section-3 {
-  background-image: url("np://user.desktop.nicepage.com/Site_94506799/images/2481991.jpg?rand=1d5d");
+  background-image: url("images/2481991.jpg");
   background-position: 50% 50%;
   background-size: auto 135%;
   min-height: 6243px;
@@ -842,7 +842,7 @@
     margin-left: calc(((100% - 1140px) / 2) + 400px);
   }
 } .u-section-4 {
-  background-image: url("np://user.desktop.nicepage.com/Site_94506799/images/2481991.jpg?rand=fe2a");
+  background-image: url("images/2481991.jpg");
   background-position: 50% 50%;
 }
 
